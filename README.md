@@ -1,5 +1,7 @@
 # Sublime Text Snippets
 
+Personal collection of Sublime Text Snippets.
+
 ## Installation
 
 Just clone the repo into Sublime's packages folder.
