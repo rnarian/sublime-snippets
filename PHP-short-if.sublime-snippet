@@ -2,6 +2,7 @@
   <content><![CDATA[
 echo (${1:condition} ? ${2:true} : ${3:false});
 ]]></content>
-  <tabTrigger>short-if</tabTrigger>
-  <description>PHP if shorthand</description>
+  <tabTrigger>if</tabTrigger>
+  <description>shorthand</description>
+  <scope>source.php</scope>
 </snippet>

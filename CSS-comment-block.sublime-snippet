@@ -6,4 +6,5 @@
 ]]></content>
   <tabTrigger>comment</tabTrigger>
   <description>Block description</description>
+  <scope>source.scss, source.css, source.php, source.js</scope>
 </snippet>

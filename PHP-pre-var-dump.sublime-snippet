@@ -7,5 +7,6 @@
 </pre>
 ]]></content>
   <tabTrigger>var_dump</tabTrigger>
-  <description>PHP var_dump wrapped in 'pre' tags</description>
+  <description>wrapped in 'pre' tags</description>
+  <scope>source.php</scope>
 </snippet>

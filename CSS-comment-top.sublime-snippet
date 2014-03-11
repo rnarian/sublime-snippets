@@ -9,4 +9,5 @@
 ]]></content>
   <tabTrigger>comment</tabTrigger>
   <description>File description</description>
+  <scope>source.scss, source.css, source.php, source.js</scope>
 </snippet>
