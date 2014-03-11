@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua erat transfixus, hastam. Idem etiam dolorem saepe perpetiuntur, ne, si id non faciant, incidant in maiorem. Omnes enim iucundum motum, quo sensus hilaretur. Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? Quo modo autem optimum, si bonum praeterea nullum est? An vero displicuit ea, quae tributa est animi virtutibus tanta praestantia? Videamus animi partes, quarum est conspectus illustrior; Duo Reges: constructio interrete. </p>
+
+<p>Non est ista, inquam, Piso, magna dissensio. Nunc vides, quid faciat. Roges enim Aristonem, bonane ei videantur haec: vacuitas doloris, divitiae, valitudo; </p>
+
+<p>Cupiditates non Epicuri divisione finiebat, sed sua satietate. Te enim iudicem aequum puto, modo quae dicat ille bene noris. Huius, Lyco, oratione locuples, rebus ipsis ielunior. Universa enim illorum ratione cum tota vestra confligendum puto. Vide ne ista sint Manliana vestra aut maiora etiam, si imperes quod facere non possim. Sine ea igitur iucunde negat posse se vivere? Quis enim est, qui non videat haec esse in natura rerum tria? Unum est sine dolore esse, alterum cum voluptate. Sed haec nihil sane ad rem; Quid enim me prohiberet Epicureum esse, si probarem, quae ille diceret? Si longus, levis. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. </p>
+
+<p>Ut aliquid scire se gaudeant? Itaque primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem; Sed erat aequius Triarium aliquid de dissensione nostra iudicare. Teneo, inquit, finem illi videri nihil dolere. Itaque fecimus. Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat. Idemne potest esse dies saepius, qui semel fuit? De malis autem et bonis ab iis animalibus, quae nondum depravata sint, ait optime iudicari. Quamquam tu hanc copiosiorem etiam soles dicere. </p>
+
+<p>Unum est sine dolore esse, alterum cum voluptate. Hanc ergo intuens debet institutum illud quasi signum absolvere. In qua quid est boni praeter summam voluptatem, et eam sempiternam? Nam si amitti vita beata potest, beata esse non potest. Quae cum essent dicta, discessimus. Philosophi autem in suis lectulis plerumque moriuntur. Sed tamen est aliquid, quod nobis non liceat, liceat illis. Est igitur officium eius generis, quod nec in bonis ponatur nec in contrariis. Utilitatis causa amicitia est quaesita.</p>
+]]></content>
+  <tabTrigger>lorem</tabTrigger>
+  <description>ipsum dolor, 5 paragraphs</description>
+  <scope>text.html</scope>
+</snippet>

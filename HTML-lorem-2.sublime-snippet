@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua erat transfixus, hastam. Idem etiam dolorem saepe perpetiuntur, ne, si id non faciant, incidant in maiorem. Omnes enim iucundum motum, quo sensus hilaretur. Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? Quo modo autem optimum, si bonum praeterea nullum est? An vero displicuit ea, quae tributa est animi virtutibus tanta praestantia? Videamus animi partes, quarum est conspectus illustrior; Duo Reges: constructio interrete. </p>
+
+<p>Non est ista, inquam, Piso, magna dissensio. Nunc vides, quid faciat. Roges enim Aristonem, bonane ei videantur haec: vacuitas doloris, divitiae, valitudo; </p>
+]]></content>
+  <tabTrigger>lorem</tabTrigger>
+  <description>ipsum dolor, 2 paragraphs</description>
+  <scope>text.html</scope>
+</snippet>
