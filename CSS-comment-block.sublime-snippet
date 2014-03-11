@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+/* ==========================================================================
+   ${1:Description}
+   ========================================================================== */
+]]></content>
+  <tabTrigger>comment</tabTrigger>
+  <description>Block description</description>
+</snippet>

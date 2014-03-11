@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<pre>
+  <?php
+    var_dump(\$this->data['${1:value}']);
+  ?>
+</pre>
+]]></content>
+  <tabTrigger>var_dump</tabTrigger>
+  <description>PHP var_dump wrapped in 'pre' tags</description>
+</snippet>

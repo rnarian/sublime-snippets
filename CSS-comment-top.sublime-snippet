@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/**
+ * ${1:filename}.${2:scss}
+ *
+ * Author: ${3:Marian Friedmann}
+ *
+ */
+]]></content>
+  <tabTrigger>comment</tabTrigger>
+  <description>File description</description>
+</snippet>
