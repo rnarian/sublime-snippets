@@ -1,12 +1,12 @@
 <snippet>
   <content><![CDATA[
-<pre>
-  <?php
-    var_dump(\$this->data['${1:value}']);
-  ?>
-</pre>
+<?php
+  echo '<pre>';
+  var_dump(\$this->data['${1:value}']);
+  echo '</pre>';
+?>
 ]]></content>
   <tabTrigger>var_dump</tabTrigger>
   <description>wrapped in 'pre' tags</description>
-  <scope>source.php</scope>
+  <scope>text.html, source.php</scope>
 </snippet>
