@@ -8,5 +8,5 @@
 ]]></content>
   <tabTrigger>var_dump</tabTrigger>
   <description>wrapped in 'pre' tags</description>
-  <scope>text.html, source.php</scope>
+  <scope>source.php, text.html</scope>
 </snippet>
