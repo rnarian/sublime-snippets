@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+{
+  "name": "${1:name}",
+  "description": "${2:description}",
+  "version": "0.0.1",
+  "private": true
+}
+]]></content>
+  <tabTrigger>package.json</tabTrigger>
+  <description>minimal package.json</description>
+  <scope>source.json, text.plain</scope>
+</snippet>
